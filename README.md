@@ -1,6 +1,6 @@
-# Person detection from live cctv video per second
+# Object detection from live cctv video [check one frame every second to save resources]
 
-The project developed using TensorFlow to detect the no of people every second entering building gate. `work in progress`
+The project developed using TensorFlow to detect the no of objects every second entering building gate. `work in progress`
 
 ### Python Packages Needed
 
